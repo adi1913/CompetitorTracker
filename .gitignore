@@ -1,0 +1,9 @@
+# python envs + caches
+venv/
+__pycache__/
+*.pyc
+
+# common editor / OS files
+.vscode/
+.idea/
+.env

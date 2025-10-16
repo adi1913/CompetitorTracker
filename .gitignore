@@ -1,9 +1,10 @@
-# python envs + caches
+# Python venvs and caches
 venv/
 __pycache__/
 *.pyc
 
-# common editor / OS files
+# Editor / OS
 .vscode/
 .idea/
+.DS_Store
 .env
